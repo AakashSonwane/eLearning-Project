@@ -8,6 +8,7 @@
                  }
         </script>
          <script>
+<<<<<<< Updated upstream
             //BUG-123 fix changes
             function confirm(){
                var a=500;
@@ -20,6 +21,13 @@
                var a=200;
                var b=400;
               // logic completed
+=======
+            //BUG-121 fix changes
+            function confirm(){
+               var a=200;
+               var b=400;
+              // logic pending
+>>>>>>> Stashed changes
             }
    </script>
    
